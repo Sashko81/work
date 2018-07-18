@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+.btn {
+  color: #ffffff;
+  padding: 9px 0px;
+  border-radius: 4px;
+  background-color: green;
+  text-decoration: none;
+  font-family: 'roboto', sans-serif; }
+  .btn i {
+    font-size: 14px;
+    padding: 11px;
+    background-color: #7493fe;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px; }
+  .btn span {
+    padding: 7px 10px; }
+  .btn.pressed {
+    background-color: green; }
+  .btn.disabled {
+    color: white; }
+
+/*# sourceMappingURL=main.css.map */

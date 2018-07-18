@@ -1,0 +1,27 @@
+.btn {
+  color: #ffffff;
+  padding: 9px 0px;
+  border-radius: 4px;
+  background-color: green;
+  text-decoration: none;
+  font-family: 'roboto', sans-serif;
+  i {
+    font-size: 14px;
+    padding: 11px;
+    background-color: #7493fe;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+  span {
+    padding: 7px 10px;
+  }
+  &.pressed{
+    background-color: green;
+  }
+  &.disabled{
+
+color: white;
+  }
+
+}
+
