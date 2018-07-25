@@ -1,0 +1,22 @@
+{
+  "name": "slobodianiuk",
+  "version": "1.0.0",
+  "description": "my first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sashko81/work.git"
+  },
+  "author": "sashko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sashko81/work/issues"
+  },
+  "homepage": "https://github.com/Sashko81/work#readme",
+  "devDependencies": {
+    "bootstrap-grid-light": "^1.1.0"
+  }
+}
